@@ -1,2 +1,2 @@
-# mercury-studio
-Sample code for Mercury Studio
+# mercury-studio-api
+Sample API for Mercury Studio
